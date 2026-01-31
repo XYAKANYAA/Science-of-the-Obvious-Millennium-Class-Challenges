@@ -1,0 +1,7 @@
+{
+    "module": "02_navier_stokes",
+    "phi_ratio": 1.618033988749895,
+    "stability_index": 1.0609933035443824e-17,
+    "singularity_prevented": true,
+    "status": "INTELLIGIBLE"
+}

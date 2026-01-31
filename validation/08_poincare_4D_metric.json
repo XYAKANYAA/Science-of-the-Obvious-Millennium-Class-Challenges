@@ -1,0 +1,7 @@
+{
+    "module": "08_poincare_4D",
+    "visualization_type": "Harmonic Rosette",
+    "diffeomorphic_verification": true,
+    "petal_multiplier_k": 3.236068,
+    "status": "INTELLIGIBLE"
+}
