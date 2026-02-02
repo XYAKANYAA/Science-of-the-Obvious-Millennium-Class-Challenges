@@ -1,11 +1,20 @@
 {
     "module": "10_abc",
-    "triple_abc": [
+    "triple": [
         1,
         8,
         9
     ],
-    "radical_value": 6,
-    "phi_resonance_verified": true,
-    "status": "INTELLIGIBLE"
+    "rad_abc": 6,
+    "abc_quality_q": 1.226294385530917,
+    "interference_peak": 2.5582203215099177,
+    "interference_rms": 1.2530537220860725,
+    "interference_std": 1.2440250135156272,
+    "operational_coherence_score": 0.5628427804651045,
+    "q_threshold": 1.4,
+    "high_quality_under_threshold": false,
+    "phi": 1.618033988749895,
+    "xyakanyaa_xa_ratio_hz_per_kg": 2.19468915034224e+50,
+    "validation_basis": "radical_and_quality_plus_bounded_interference_diagnostics",
+    "status": "diagnostic_complete"
 }

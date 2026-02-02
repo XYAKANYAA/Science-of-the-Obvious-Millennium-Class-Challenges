@@ -1,7 +1,13 @@
 {
     "module": "02_navier_stokes",
-    "phi_ratio": 1.618033988749895,
-    "stability_index": 1.0609933035443824e-17,
-    "singularity_prevented": true,
-    "status": "INTELLIGIBLE"
+    "phi": 1.618033988749895,
+    "local_gradient_proxy": 9.983308314687621,
+    "peak_energy_transient": 0.5893406645322301,
+    "rms_energy": 0.1877899341799955,
+    "xyakanyaa_xa_ratio_hz_per_kg": 2.19468915034224e+50,
+    "operational_stability_index": 1.0609933035443824e-17,
+    "stability_threshold": 1e-10,
+    "bounded_under_model": true,
+    "validation_basis": "boundedness_under_phi_scaled_damping_representation",
+    "status": "diagnostic_complete"
 }

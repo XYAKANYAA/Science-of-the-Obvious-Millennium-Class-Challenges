@@ -1,5 +1,20 @@
-Module 04: P vs NP (TSP Resonance) Resolution
-Timestamp: 2026-01-30
-City Count: 50
-Field Coherence Peak: 50.0000
-Status: P equals NP on the Axis
+Module 04 — P vs NP (TSP Compression Diagnostic)
+
+Cities: 50
+Brute-force search space: 3.041409e+62
+log10(search space): 62.48
+
+Field diagnostics:
+max: 50.000000
+min: -15.658345
+range: 65.658345
+std: 5.483271
+
+Aggregation:
+field_resolution: 2000
+compression_ratio: 0.000000
+
+Notes:
+- This module does not prove P vs NP.
+- It reports a representational aggregation diagnostic:
+  large combinatorial space → bounded 1D interference field.
