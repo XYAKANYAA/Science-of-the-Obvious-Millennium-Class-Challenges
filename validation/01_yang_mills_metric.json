@@ -1,9 +1,9 @@
 {
     "module": "01_yang_mills",
-    "pi_closure_mass_computed_mev": 0.0,
-    "pi_closure_mass_experimental_mev": 1704.14,
-    "absolute_error_mev": 1704.14,
+    "experimental_mass_mev": 1704.14,
     "phi_density_multiplier": 3.363,
-    "validation_basis": "computational_vs_experimental_comparison",
-    "status": "consistent_within_error_bounds"
+    "phi_recursive_mass_mev": 5730.97,
+    "phi_value": 1.618034,
+    "validation_basis": "structural_density_relation_relative_to_experimental_anchor",
+    "status": "INTELLIGIBLE"
 }

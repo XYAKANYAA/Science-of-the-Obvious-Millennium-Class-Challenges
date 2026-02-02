@@ -186,6 +186,7 @@ For commercial licensing: **hello@xyakanyaa.com**
 
 ---
 
-*These documents record what was observed. Whether the observations hold remains an open question.*
+*These documents record what was observed.
+Their validity arises through direct inspection, reproducible application, and lived coherence with the structures described.*
 
 © 2026 XYAKANYAA

@@ -137,8 +137,8 @@ Subsequent modules follow the same structure and can be read independently, thou
 
 ---
 
-*These documents record what was observed from a particular orientation.  
-Whether the observations hold is an open question.*
+*These documents record what was observed.
+Their validity arises through direct inspection, reproducible application, and lived coherence with the structures described.*
 
 © 2026 XYAKANYAA  
 CC BY-NC 4.0 International

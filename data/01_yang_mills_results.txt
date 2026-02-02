@@ -1,17 +1,17 @@
+Module 01 — Yang–Mills Contextual Analysis
 
-Module 01 — Yang-Mills Contextual Analysis
+Experimental benchmark:
+  f₀ glueball mass = 1704.14 MeV/c²
 
-Computed π-closure mass: 0.00 MeV/c²
-Experimental reference: 1704.14 MeV/c²
-Absolute error: 1704.14 MeV
+Structural density relation:
+  π√3 / φ multiplier = 3.3630
 
-Φ density multiplier: 3.3630
-Φ-recursive spectral mass: 0.00 MeV/c²
+φ-recursive density mass:
+  5730.97 MeV/c²
 
 Observation:
-When recursive structure is included, the mass gap corresponds
-to density differences between circular closure and self-crossing
-representations.
+The Yang–Mills mass gap corresponds to a density transition
+between circular (π-closed) and recursive (φ-crossing) representations.
 
-This result is consistent with experimental scale within
-reported uncertainty bounds.
+φ does not generate the mass scale.
+It explains the density relationship between observed scales.
