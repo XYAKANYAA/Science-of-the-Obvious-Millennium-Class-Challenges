@@ -122,5 +122,6 @@ Yang, C.N. & Mills, R.L. (1954) — Physical Review
 XYAKANYAA — The Axis (2026)
 
 The mass gap was not missing from nature; it was missing from the frame.
+
 © 2026 XYAKANYAA
 CC BY-NC 4.0 International
