@@ -1,5 +1,3 @@
-GitHub Repository - README.md:
-
 # XYAKANYAA | Computational MCC Instrumentation  
 **Experimental Codebase for the Science of the Obvious**  
 _A repository of executable modules and generated outputs for 11 Millennium-Class Challenges_  
