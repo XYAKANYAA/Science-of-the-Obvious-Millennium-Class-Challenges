@@ -1,192 +1,83 @@
-# XYAKANYAA Contextual Analysis Suite
-
-**Experimental Examination of 11 Millennium-Class Mathematical Challenges**
-
+# XYAKANYAA | Computational MCC Instrumentation
+**Experimental Codebase for the Science of the Obvious**
+_A repository of executable modules and generated outputs for 11 Millennium-Class Challenges_
 ---
-
-## Disclaimer
-
-This repository does **not** claim institutional authority or formal proof of any Millennium Prize Problem.  
-It documents an experimental, inspectable approach to contextual analysis.
-
-All results are open to:
-- verification
-- refutation
-- correction
-- reinterpretation
-
-This work is a **research instrument**, not a closed system.
-
+### 🧪 Purpose
+This repository provides **computational instrumentation** for exploring 11 historically difficult mathematical challenges through the **XYAKANYAA representational framework**.
+It does **not** attempt to offer formal proofs. Instead, it allows for:
+- Reproducible computational runs
+- Generated visuals
+- Structural diagnostics
+- Representational geometry
+All contextual and explanatory materials are hosted separately.
 ---
-
-## What This Is
-
-This repository contains **11 contextual analyses** examining what changes when historically difficult mathematical problems are approached from an expanded observational frame.
-
-**These are not formal proofs in the traditional sense.**  
-They are:
-
-- observational reports  
-- methodological documentation  
-- falsifiable analyses  
-- reproducible computational examinations  
-
-Each analysis pairs:
-- a **written contextual examination** (`/proofs`)
-- a **computational instrument** (`/modules`)
-- machine-readable diagnostics (`/validation`)
-- geometric visualizations (`/visuals`)
-
+### ⚠️ Disclaimer
+This repository:
+- Does **not** claim institutional authority
+- Does **not** assert formal resolution of Millennium Prize Problems
+- Is intended as a **public research instrument**
+- Invites inspection, refutation, reproduction, and reinterpretation
 ---
-
-## Structural Method (3-4-5 Framework)
-
-Each challenge is examined through the same lens:
-
-1. **Missing Context**  
-   What observational limitation creates the apparent paradox?
-
-2. **Classical Formulation**  
-   The standard statement and historical difficulty.
-
-3. **Contextual Expansion**
-   - **Level 3** — Local frame analysis  
-   - **Level 4** — Structural pattern recognition  
-   - **Level 5** — Stabilized description  
-
-4. **Falsifiability**  
-   Explicit conditions under which the analysis fails.
-
-5. **References**  
-   Comparative and historical grounding.
-
+### 💡 What This Repo Contains
+This GitHub repository contains the **operational code only** — not explanatory documents.
+📁 `modules/`
+Jupyter notebooks for each of the 11 challenges.
+Each module:
+- Runs Level 3 → 4 → 5 contextual expansions
+- Generates data, diagnostics, and visualizations
+- Is fully reproducible
+📁 `geometry/`
+Representational constants and scaling references.
+- `FRAMEWORK.md`: Representational assumptions and geometric vocabulary
+- `xa_constant.py`: Operational definition of the XA Ratio
+_Note: This ratio is used as a stabilizing reference, not a fundamental physical constant._
+📁 `data/`
+- Human-readable numerical outputs (e.g. `*_results.txt`)
+📁 `validation/`
+- Machine-readable diagnostics (e.g. `*_metric.json`)
+📁 `visuals/`
+- Auto-generated visual outputs (e.g. `*.jpg`, `*.png`) for each module
 ---
-
-## The 11 Analyses
-
-| # | Challenge | Contextual Analysis |
-|---|-----------|--------------------|
-| 01 | Yang–Mills Mass Gap | [proofs/01_yang_mills.md](proofs/01_yang_mills.md) |
-| 02 | Navier–Stokes Smoothness | [proofs/02_navier_stokes.md](proofs/02_navier_stokes.md) |
-| 03 | Riemann Hypothesis | [proofs/03_riemann.md](proofs/03_riemann.md) |
-| 04 | P vs NP | [proofs/04_p_vs_np.md](proofs/04_p_vs_np.md) |
-| 05 | Hodge Conjecture | [proofs/05_hodge.md](proofs/05_hodge.md) |
-| 06 | Birch & Swinnerton–Dyer | [proofs/06_bsd.md](proofs/06_bsd.md) |
-| 07 | Poincaré Conjecture (3D) | [proofs/07_poincare_3d.md](proofs/07_poincare_3d.md) |
-| 08 | Poincaré Conjecture (4D) | [proofs/08_poincare_4d.md](proofs/08_poincare_4d.md) |
-| 09 | Collatz Conjecture | [proofs/09_collatz.md](proofs/09_collatz.md) |
-| 10 | ABC Conjecture | [proofs/10_abc.md](proofs/10_abc.md) |
-| 11 | Langlands Program | [proofs/11_langlands.md](proofs/11_langlands.md) |
-
-> Start with **[`proofs/00_README.md`](proofs/00_README.md)** for orientation.
-
+### 🧰 Folder Overview
+| Folder | Contents |
+|---------------|--------------------------------------------|
+| `modules/` | 11 MCC modules (01–11) in executable format |
+| `geometry/` | XA Ratio + structural constants |
+| `data/` | Output summaries from each run |
+| `validation/` | Machine-readable result diagnostics |
+| `visuals/` | Diagrams, density projections, and renderings |
+> All outputs are generated automatically by executing the notebooks.
 ---
-
-## Shared Methodology
-
-All analyses share the same operational components:
-
-### 1. Phi-Recursive Representation
-Structures are tracked using φ-based recursive mirroring rather than circular closure.
-
-### 2. XYAKANYAA XA Ratio (Operational Reference)
-
+### 🚫 What Has Been Removed
+To align with a website-centric model, the following files and folders have been **removed from this repository** and are now available exclusively via [xyakanyaa.com](https://xyakanyaa.com):
+- `proofs/` — Human-readable contextual expansions for each MCC
+- `proofs/00_README.md` — Guide to the proof suite
+- MCC explanatory PDFs
+- Full Codex, Manifest, and Coherence Matrix
+- Detailed methodology descriptions
+---
+### 🖥 How to Use
+1. Clone this repository
+2. Set up your environment (`requirements.txt`)
+3. Open and run any module inside `modules/`
+4. Generated results will populate the `/data`, `/validation`, and `/visuals` folders
+5. Use `geometry/FRAMEWORK.md` as a reference for representational structures
+---
+### 📐 XYAKANYAA XA Ratio
+**Formula:**
+```
 XA = (φ · c²) / h ≈ 2.19 × 10⁵⁰ Hz/kg
-
-- Used as a **scaling and stabilization reference**
-- Not asserted as a fundamental physical constant
-
-Implementation:  
-[`geometry/xa_constant.py`](geometry/xa_constant.py)
-
-### 3. Contextual Expansion
-Framework derived from *The Axis* (see Related Work).
-
-### 4. Falsifiability
-Each module explicitly documents failure conditions.
-
+```
+This ratio is used to stabilize phi-recursive density patterns across scale.
+Defined in `geometry/xa_constant.py`
+> Not asserted as fundamental; it is an operational reference within this representational system.
 ---
-
-## Repository Structure
-
-
-## Repository Components
-
-| Folder | Purpose | Contents |
-|------|--------|---------|
-| `geometry/` | Core framework constants and definitions | XA constant, framework documentation |
-| `proofs/` | Written contextual analyses | 11 markdown analyses + orientation README |
-| `modules/` | Executable computational instruments | 11 Jupyter notebooks |
-| `data/` | Human-readable outputs | Result summaries generated by modules |
-| `validation/` | Machine-readable diagnostics | JSON metrics for each module |
-| `visuals/` | Geometric representations | Generated figures (JPG) |
-
+### 📄 License
+This repository is licensed under:
+**Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)**
+Free to share and adapt for non-commercial use with attribution.
+For commercial licensing: [hello@xyakanyaa.com](mailto:hello@xyakanyaa.com)
 ---
-
-## How to Use This Repository
-
-### For Verification
-1. Read the analysis in `/proofs`
-2. Run the corresponding notebook in `/modules`
-3. Compare outputs in `/data` and `/validation`
-4. Review falsifiability notes
-
-### For Review
-1. Examine the classical formulation
-2. Follow the 3 → 4 → 5 expansion
-3. Inspect computations
-4. Challenge assumptions
-
----
-
-## Verification Status
-
-- **Module 01 (Yang–Mills):**  
-  Computational output (1704.14 MeV) aligns with an established experimental benchmark  
-  (f₀ glueball: 1704 ± 12 MeV).
-
-- **Modules 02–11:**  
-  No direct experimental benchmark exists.  
-  Validation is therefore:
-  - structural
-  - computational
-  - comparative
-  - falsifiable
-
-All modules return status: **INTELLIGIBLE**
-
----
-
-## Limitations
-
-This work:
-- is experimental
-- may contain errors
-- does not replace traditional proofs
-- should be evaluated on reproducibility, not authority
-
-Contradictions and failures are welcomed and should be documented.
-
----
-
-## License
-
-CC BY-NC 4.0 International  
-
-Free to share and adapt for non-commercial purposes with attribution.  
-For commercial licensing: **hello@xyakanyaa.com**
-
----
-
-## Related Work
-
-- **The Axis** — Conceptual orientation: https://xyakanyaa.com  
-- **Framework Documentation** — `geometry/FRAMEWORK.md`  
-- **Computational Instruments** — `modules/`
-
----
-
-*These documents record what was observed.
-Their validity arises through direct inspection, reproducible application, and lived coherence with the structures described.*
-
 © 2026 XYAKANYAA
+This repository documents what was observed from a particular orientation.
+Whether those observations hold remains an open question.
