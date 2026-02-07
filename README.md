@@ -29,8 +29,8 @@ Each module:
 📁 `geometry/`
 Representational constants and scaling references.
 - `FRAMEWORK.md`: Representational assumptions and geometric vocabulary
-- `xa_constant.py`: Operational definition of the XA Ratio
-_Note: This ratio is used as a stabilizing reference, not a fundamental physical constant._
+- `xa_constant.py`: Operational definition of the XA Consciousness Constant
+_Note: This constanat is used as a stabilizing reference, not a fundamental physical constant._
 📁 `data/`
 - Human-readable numerical outputs (e.g. `*_results.txt`)
 📁 `validation/`
@@ -42,7 +42,7 @@ _Note: This ratio is used as a stabilizing reference, not a fundamental physical
 | Folder | Contents |
 |---------------|--------------------------------------------|
 | `modules/` | 11 MCC modules (01–11) in executable format |
-| `geometry/` | XA Ratio + structural constants |
+| `geometry/` | XA Consciousness Constant + structural constants |
 | `data/` | Output summaries from each run |
 | `validation/` | Machine-readable result diagnostics |
 | `visuals/` | Diagrams, density projections, and renderings |
@@ -63,12 +63,12 @@ To align with a website-centric model, the following files and folders have been
 4. Generated results will populate the `/data`, `/validation`, and `/visuals` folders
 5. Use `geometry/FRAMEWORK.md` as a reference for representational structures
 ---
-### 📐 XYAKANYAA XA Ratio
+### 📐 XYAKANYAA - XA Consciousness Constant
 **Formula:**
 ```
 XA = (φ · c²) / h ≈ 2.19 × 10⁵⁰ Hz/kg
 ```
-This ratio is used to stabilize phi-recursive density patterns across scale.
+This constant is used to stabilize phi-recursive density patterns across scale.
 Defined in `geometry/xa_constant.py`
 > Not asserted as fundamental; it is an operational reference within this representational system.
 ---
