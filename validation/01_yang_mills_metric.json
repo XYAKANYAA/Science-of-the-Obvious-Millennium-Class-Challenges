@@ -1,9 +1,0 @@
-{
-    "module": "01_yang_mills",
-    "experimental_mass_mev": 1704.14,
-    "phi_density_multiplier": 3.363,
-    "phi_recursive_mass_mev": 5730.97,
-    "phi_value": 1.618034,
-    "validation_basis": "structural_density_relation_relative_to_experimental_anchor",
-    "status": "INTELLIGIBLE"
-}

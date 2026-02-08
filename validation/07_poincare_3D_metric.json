@@ -1,7 +1,0 @@
-{
-    "module": "07_poincare_3D",
-    "topological_closure": "Simply Connected",
-    "phi_stability": true,
-    "homeomorphic_to_sphere": true,
-    "status": "INTELLIGIBLE"
-}
