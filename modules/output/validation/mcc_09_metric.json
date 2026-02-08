@@ -1,0 +1,7 @@
+{
+    "module": "Collatz Conjecture",
+    "metrics": {
+        "sequence_length": 112
+    },
+    "status": "INTELLIGIBLE"
+}

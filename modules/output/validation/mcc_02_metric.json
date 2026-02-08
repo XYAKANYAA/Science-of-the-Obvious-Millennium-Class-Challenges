@@ -1,0 +1,7 @@
+{
+    "module": "Navier-Stokes Smoothness",
+    "metrics": {
+        "stability_index": 1.0609933035443824e-17
+    },
+    "status": "INTELLIGIBLE"
+}
