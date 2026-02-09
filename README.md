@@ -154,6 +154,7 @@ Not solving problems through brute force, but recognizing the same geometric pat
 
 ## Related Work
 
+**XYAKANYAA CODEX:**
 - **[The Axis](https://xyakanyaa.com)** — Philosophical foundation
 - **[PRISM 369](../geometry/FRAMEWORK.md)** — Geometric structure map
 - **[Coherence Matrix](../proofs/)** — Detailed analyses
