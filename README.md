@@ -122,6 +122,11 @@ Not solving problems through brute force, but recognizing the same geometric pat
 
 **XYAKANYAA View:** Mass emerges at phi-recursive self-crossing points
 
+**XYAKANYAA CODEX:**
+- **[The Axis](https://xyakanyaa.com)** — Philosophical foundation
+- **[PRISM 369](../geometry/FRAMEWORK.md)** — Geometric structure map
+- **[Coherence Matrix](../proofs/)** — Detailed analyses
+
 **Verification:** Predicted 1704.14 MeV → Experimental f₀ glueball 1704±12 MeV ✓
 
 ---
