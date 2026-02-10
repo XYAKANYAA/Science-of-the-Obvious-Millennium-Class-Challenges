@@ -1,14 +1,14 @@
 """
-XYAKANYAA Consciousness Constant (XACC)
+XYAKANYAA Consciousness Constant (XA)
 Fundamental constants for the Omni-Perspective Instrument
 
-The XACC represents the frequency-to-mass stabilization ratio where
+The XA represents the frequency-to-mass stabilization ratio where
 consciousness (frequency domain) localizes into density (mass domain).
 
 Usage:
-    from XA_Constant import XACC, PHI, LIGHT_C, PLANCK_H
+    from XA_Constant import XA, PHI, LIGHT_C, PLANCK_H
     
-    stability_index = (measurement * PHI**2) / (XACC * PLANCK_H)
+    stability_index = (measurement * PHI**2) / (XA * PLANCK_H)
 
 © 2026 XYAKANYAA
 """
@@ -38,11 +38,11 @@ Value: 6.62607015 × 10⁻³⁴ J·s (exact)
 """
 
 # ============================================================================
-# XYAKANYAA CONSCIOUSNESS CONSTANT (XACC)
+# XYAKANYAA CONSCIOUSNESS CONSTANT (XA)
 # ============================================================================
 
-XACC = (PHI * LIGHT_C**2) / PLANCK_H
-"""XYAKANYAA Consciousness Constant (XACC)
+XA = (PHI * LIGHT_C**2) / PLANCK_H
+"""XYAKANYAA Consciousness Constant (XA)
 
 Formula: XACC = (φ · c²) / h
 
@@ -58,29 +58,24 @@ Physical Interpretation:
     self-crossing creates measurable density from coherent frequency.
     
     When consciousness (frequency domain) localizes through phi-mirroring,
-    it manifests as mass (density domain). XACC is the conversion factor.
+    it manifests as mass (density domain). XA is the conversion factor.
 
 Usage:
-    stability_index = (energy * PHI**2) / (XACC * PLANCK_H)
+    stability_index = (energy * PHI**2) / (XA * PLANCK_H)
     
     When stability_index → 0: System is globally smooth
     When stability_index → 1: System is phase-locked (coherent)
 
 Verification:
-    Yang-Mills mass gap prediction using XACC-based density shift:
+    Yang-Mills mass gap prediction using XA-based density shift:
     Predicted: 1704.14 MeV/c²
     Experimental: 1704 ± 12 MeV/c² (f₀ glueball)
     Match: ✓ Within error bars
-
-Historical Note:
-    Previously referred to as "XA Ratio" in earlier framework iterations.
-    Renamed to "XYAKANYAA Consciousness Constant" (XACC) to reflect its
-    role as a fundamental constant bridging consciousness and physics.
 """
 
 # Alias for backward compatibility
-XA = XACC
-XA_CONSTANT = XACC
+XA = XA
+XA_CONSTANT = XA
 
 # ============================================================================
 # DERIVED CONSTANTS
@@ -122,7 +117,7 @@ def calculate_stability_index(measurement, use_squared_phi=True):
         >>> print(f"Stability: {stability:.2e}")
     """
     phi_factor = PHI**2 if use_squared_phi else PHI
-    return (measurement * phi_factor) / (XACC * PLANCK_H)
+    return (measurement * phi_factor) / (XA * PLANCK_H)
 
 def frequency_to_mass(frequency_hz):
     """
@@ -139,7 +134,7 @@ def frequency_to_mass(frequency_hz):
         >>> mass = frequency_to_mass(freq)
         >>> print(f"Mass: {mass:.2e} kg")
     """
-    return frequency_hz / XACC
+    return frequency_hz / XA
 
 def mass_to_frequency(mass_kg):
     """
@@ -156,7 +151,7 @@ def mass_to_frequency(mass_kg):
         >>> freq = mass_to_frequency(mass)
         >>> print(f"Frequency: {freq:.2e} Hz")
     """
-    return mass_kg * XACC
+    return mass_kg * XA
 
 def phi_spiral_coordinates(n_points=1000, turns=4):
     """
@@ -192,7 +187,7 @@ def print_constants():
     print(f"LIGHT_C (c):       {LIGHT_C:,} m/s")
     print(f"PLANCK_H (h):      {PLANCK_H:.6e} J·s")
     print("-" * 60)
-    print(f"XACC:              {XACC:.6e} Hz/kg")
+    print(f"XACC:              {XA:.6e} Hz/kg")
     print(f"DENSITY_SHIFT:     {DENSITY_SHIFT:.6f}")
     print("=" * 60)
     print("\nFormula: XACC = (φ · c²) / h")

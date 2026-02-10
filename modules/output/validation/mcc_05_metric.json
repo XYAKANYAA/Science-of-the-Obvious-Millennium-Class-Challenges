@@ -1,7 +1,9 @@
 {
     "module": "Hodge Conjecture",
     "metrics": {
-        "transversal_stability": 0.999995
+        "cycle_count": 100,
+        "xtic_stability_metric": 3.951111185790714e+35,
+        "validation_basis": "geometric_transversality_variety_coherence"
     },
     "status": "INTELLIGIBLE"
 }

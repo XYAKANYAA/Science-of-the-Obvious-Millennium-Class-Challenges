@@ -1,7 +1,9 @@
 {
     "module": "ABC Conjecture",
     "metrics": {
-        "abc_quality": 1.226294
+        "radical_value": 6,
+        "abc_stability_metric": 7.15737075113796e-50,
+        "validation_basis": "structural_resolution_via_coherence_ratios"
     },
     "status": "INTELLIGIBLE"
 }

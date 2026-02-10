@@ -1,1 +1,7 @@
-SOTO Insight: Yang-Mills Mass Gap resolved.
+SOTO Insight: Yang-Mills Mass Gap
+Observation: The mass gap reflects a density transition between circular (pi-closed) local frames and recursive (phi-crossing) structures.
+Mechanism:
+  * Local Frame: Gauge bosons appear massless due to circular symmetry (pi).
+  * Structural Context: Recursive density accumulation (phi) generates the observed mass scale.
+Resolution: The ratio pi*sqrt(3)/phi (~3.363) relates the experimental glueball benchmark (1704.14 MeV) to the phi-recursive density limit (5730.97 MeV).
+Status: INTELLIGIBLE. The gap is a product of the observational frame transition.

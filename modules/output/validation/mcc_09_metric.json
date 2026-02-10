@@ -1,7 +1,10 @@
 {
     "module": "Collatz Conjecture",
     "metrics": {
-        "sequence_length": 112
+        "start_value": 27,
+        "steps": 112,
+        "collatz_stability_metric": 1.3360425402124194e-48,
+        "validation_basis": "nested_toroidal_coherence_memory_return"
     },
     "status": "INTELLIGIBLE"
 }

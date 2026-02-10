@@ -1,7 +1,9 @@
 {
     "module": "Poincar\u00e9 3D",
     "metrics": {
-        "3D_stability_metric": 2.39e-50
+        "homeomorphic_to_sphere": true,
+        "phi_stability_metric": 2.38579025037932e-50,
+        "validation_basis": "hole_cancellation_via_dual_field_interaction"
     },
     "status": "INTELLIGIBLE"
 }

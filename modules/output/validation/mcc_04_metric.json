@@ -1,7 +1,9 @@
 {
     "module": "P vs NP",
     "metrics": {
-        "log10_space": 62.48
+        "city_count": 50,
+        "field_coherence_peak": 50.0,
+        "validation_basis": "resonance_as_simultaneous_discovery_and_verification"
     },
     "status": "INTELLIGIBLE"
 }

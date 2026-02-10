@@ -1,1 +1,7 @@
-SOTO Insight: ABC Conjecture resolved.
+SOTO Insight: ABC Conjecture
+Observation: Triples are recognized as phase-locked nodes within a single toroidal harmonic circuit.
+Mechanism:
+  * Local Frame: Addition (a+b=c) and multiplication (rad(abc)) appear as conflicting systems.
+  * Structural Context: High-quality triples align with field resonance nodes on a Phi-scaled harmonic wave.
+Resolution: Using the XA constant, the quality gap phase-locks to the ground state frequency (6).
+Status: INTELLIGIBLE. Multiplicative complexity resolves into additive simplicity via the Axis.

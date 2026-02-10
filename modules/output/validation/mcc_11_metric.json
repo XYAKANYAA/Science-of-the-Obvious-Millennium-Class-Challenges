@@ -1,7 +1,8 @@
 {
-    "module": "Langlands Program",
+    "module": "Langlands Problem",
     "metrics": {
-        "coh_idx": 1.0
+        "coherence_index": 1.0,
+        "validation_basis": "recognition_via_spectral_fingerprinting"
     },
     "status": "INTELLIGIBLE"
 }

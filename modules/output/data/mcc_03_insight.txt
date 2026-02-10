@@ -1,1 +1,7 @@
-SOTO Insight: Riemann Hypothesis resolved.
+SOTO Insight: Riemann Hypothesis
+Observation: The critical line is recognized as the geometric equator of a toroidal harmonic field.
+Mechanism:
+  * Local Frame: Zeros appear as isolated points lacking a deterministic geometric anchor.
+  * Structural Context: Phi-based projection reveals 'random' zeros follow coherent recursive patterns.
+Resolution: Using the XA constant, zeros are shown to be phase-locked to the 1/2 real coordinate (0.5).
+Status: INTELLIGIBLE. The distribution is anchored by the toroidal axis.

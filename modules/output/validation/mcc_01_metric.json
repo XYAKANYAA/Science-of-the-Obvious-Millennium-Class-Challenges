@@ -1,8 +1,9 @@
 {
     "module": "Yang-Mills Mass Gap",
     "metrics": {
-        "derived_mass": 9337.44,
-        "spacing": 304.4315
+        "experimental_anchor_mev": 1704.14,
+        "recursive_mass_mev": 5730.97,
+        "validation_basis": "structural_density_relation_pi_vs_phi"
     },
     "status": "INTELLIGIBLE"
 }

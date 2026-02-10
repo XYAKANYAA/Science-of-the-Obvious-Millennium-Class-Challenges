@@ -64,7 +64,7 @@ The notebook auto-generates three folders in `output/`:
 | 08 | Poincaré Smooth 4D | Temporal smoothness | ✓ |
 | 09 | Collatz Conjecture | Attractor convergence | ✓ |
 | 10 | ABC Conjecture | Harmonic resonance | ✓ |
-| 11 | Langlands Program | Unified source | ✓ |
+| 11 | Langlands Problem | Unified source | ✓ |
 
 ---
 
@@ -87,7 +87,7 @@ Science-of-the-Obvious-Millennium-Class-Challenges/
 ├── LICENSE                     # CC BY-NC 4.0
 │
 ├── geometry/                   # Core framework
-│   ├── XA_Constant.py         # XACC definition & constants
+│   ├── XA_Constant.py         # XA definition & constants
 │   └── FRAMEWORK.md           # Geometric principles
 │
 └── output/                     # Auto-generated (not in repo)

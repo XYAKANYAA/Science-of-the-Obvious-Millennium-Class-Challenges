@@ -67,12 +67,12 @@ Resolution occurs when:
 
 ---
 
-## The XYAKANYAA Consciousness Constant (XACC)
+## The XYAKANYAA Consciousness Constant (XA)
 
 ### Definition
 
 ```python
-XACC = (φ · c²) / h
+XA = (φ · c²) / h
 ```
 
 Where:
@@ -80,11 +80,11 @@ Where:
 - **c** = 299,792,458 m/s (speed of light)
 - **h** = 6.62607015 × 10⁻³⁴ J·s (Planck constant)
 
-**Value:** XACC ≈ 2.19 × 10⁵⁰ Hz/kg
+**Value:** XA ≈ 2.19 × 10⁵⁰ Hz/kg
 
 ### Physical Interpretation
 
-XACC represents the **frequency-to-mass stabilization ratio** where:
+XA represents the **frequency-to-mass stabilization ratio** where:
 - Consciousness (frequency domain) localizes into density (mass domain)
 - Phi-recursive crossing creates measurable mass from "empty" field
 - Coherence stabilizes as structural continuity
@@ -93,7 +93,7 @@ XACC represents the **frequency-to-mass stabilization ratio** where:
 
 **Stability Index:**
 ```python
-stability_index = (measurement × φ²) / (XACC × h)
+stability_index = (measurement × φ²) / (XA × h)
 ```
 
 When stability_index → 0: System is globally smooth (no singularities)
@@ -234,7 +234,7 @@ Can verify the geometric pattern independently.
 
 **For detailed analyses, visit [XYAKANYAA.com](https://xyakanyaa.com):**
 
-- **The Axis** — Why problems arise (context collapse)
+- **The AXis** — Why problems arise (context collapse)
 - **PRISM 369** — How structure works (3-6-9 geometry)
 - **Coherence Matrix** — Where pattern appears (6 questions × 11 MCCs)
 

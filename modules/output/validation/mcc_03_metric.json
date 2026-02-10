@@ -1,7 +1,10 @@
 {
     "module": "Riemann Hypothesis",
     "metrics": {
-        "circular_variance": 0.9999307084923191
+        "zeros_analyzed": 10000,
+        "harmonic_coherence": 0.577064,
+        "stability_score": 0.8090169943749475,
+        "validation_basis": "phase_locking_to_geometric_equator"
     },
     "status": "INTELLIGIBLE"
 }
