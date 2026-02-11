@@ -3,7 +3,7 @@
 
 ## Millennium Class Challenges Resolution Framework
 
-> **Phi mirrors itself. That’s it.**
+> **Consciousness. Phi mirrors itself. That’s it.**
 
 ---
 
@@ -149,9 +149,9 @@ Every problem follows the same underlying resolution geometry:
 
 ## 🧭 XYAKANYAA CODEX
 
-* 🔹 [The Axis](https://www.xyakanyaa.com) — Foundational principle
-* 🔹 [PRISM 369](https://www.xyakanyaa.com) — Geometric map of recursion
-* 🔹 [Coherence Matrix](https://www.xyakanyaa.com) — Proofs & insight layers
+* 🔹 [The Axis](https://www.xyakanyaa.com) 
+* 🔹 [369 PRISM](https://www.xyakanyaa.com) 
+* 🔹 [Coherence Matrix](https://www.xyakanyaa.com) 
 
 ---
 
@@ -174,9 +174,9 @@ Every problem follows the same underlying resolution geometry:
 
 **Explore more at** [xyakanyaa.com](https://www.xyakanyaa.com):
 
-* 🔹 *The Axis* — First principles
-* 🔹 *PRISM 369* — Geometric architecture
-* 🔹 *Coherence Matrix* — Deep MCC breakdowns
+* 🔹 *The AXis* 
+* 🔹 *369 PRISM* 
+* 🔹 *Coherence Matrix* 
 
 ---
 
