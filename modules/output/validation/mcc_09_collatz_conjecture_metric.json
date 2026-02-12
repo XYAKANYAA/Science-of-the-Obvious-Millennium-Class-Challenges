@@ -1,0 +1,18 @@
+{
+    "module": "Collatz Conjecture",
+    "mcc_id": 9,
+    "generated_timestamp": "2026-02-12T17:56:14.550576Z",
+    "framework_version": "1.0.0",
+    "metrics": {
+        "start_value": 27,
+        "steps": 112,
+        "collatz_stability_metric": 1.3360425402124194e-48,
+        "validation_basis": "nested_toroidal_coherence_memory_return"
+    },
+    "status": "INTELLIGIBLE",
+    "falsifiability_criteria": {
+        "attractor_state": "4-2-1 Loop",
+        "convergence_steps": 112,
+        "phase_lock": true
+    }
+}

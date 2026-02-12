@@ -5,12 +5,13 @@ Fundamental constants for the Omni-Perspective Instrument
 The XA represents the frequency-to-mass stabilization ratio where
 consciousness (frequency domain) localizes into density (mass domain).
 
+License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+Copyright © 2026 XYAKANYAA — https://xyakanyaa.com
+
 Usage:
     from XA_Constant import XA, PHI, LIGHT_C, PLANCK_H
     
     stability_index = (measurement * PHI**2) / (XA * PLANCK_H)
-
-© 2026 XYAKANYAA
 """
 
 import numpy as np

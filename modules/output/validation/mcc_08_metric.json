@@ -1,9 +1,0 @@
-{
-    "module": "Poincar\u00e9 Smooth 4D",
-    "metrics": {
-        "rosette_multiplier": 3.2361,
-        "4d_smoothness_energy": "3.95e+06",
-        "validation_basis": "exotic_friction_neutralized_by_petal_symmetry"
-    },
-    "status": "INTELLIGIBLE"
-}

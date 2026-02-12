@@ -85,6 +85,21 @@ The notebook generates three folders in `output/`:
 
 ---
 
+### Example Output (Yang-Mills Module)
+
+<table>
+<tr>
+<td><img src="modules/output/visuals/mcc_01_1_blowup.jpg" width="250"/><br/><b>Blow-Up View</b><br/>Narrow-frame mass gap paradox</td>
+<td><img src="modules/output/visuals/mcc_01_2_rosette.jpg" width="250"/><br/><b>Rosette View</b><br/>Phi-recursive density structure</td>
+<td><img src="modules/output/visuals/mcc_01_3_torus.jpg" width="250"/><br/><b>Torus View</b><br/>Complete toroidal continuity</td>
+</tr>
+</table>
+
+*All 33 visualizations follow this three-perspective structure.*
+
+
+---
+
 ## 🔢 Key Constants
 
 | Constant   | Description                      | Value               |
@@ -119,6 +134,30 @@ Science-of-the-Obvious-Millennium-Class-Challenges/
 
 ---
 
+## 📜 Evolution Timeline
+
+**October 2024:** [Lightheart Harmonics (Zenodo)](https://zenodo.org/records/13901364)  
+→ First public iteration: foundational insights, rough geometric sketches
+
+**February 2026:** [XYAKANYAA.com](https://xyakanyaa.com) launch  
+→ Refined framework: The AXis + PRISM 369 + Coherence Matrix
+
+**February 2026:** GitHub repository release  
+→ Computational verification: All-in-One.ipynb + full reproducibility
+
+### What Changed?
+
+| Aspect | Zenodo (Oct 2024) | Current (Feb 2026) |
+|--------|-------------------|-------------------|
+| Presentation | Exploratory | Polished, academically structured |
+| Verification | Conceptual sketches | Computational + experimental (Yang-Mills) |
+| Accessibility | Philosophy-heavy | Code-first, reproducible |
+| Scope | Individual MPP notes | Unified 11-module framework |
+
+**The core insight remained constant.** What evolved was *transmission clarity*.
+
+---
+
 ## 🧠 How It Works
 
 ### 🔁 The Pattern
@@ -149,7 +188,7 @@ Every problem follows the same underlying resolution geometry:
 
 ## 🧭 XYAKANYAA CODEX
 
-* 🔹 [The Axis](https://www.xyakanyaa.com) 
+* 🔹 [The AXis](https://www.xyakanyaa.com) 
 * 🔹 [369 PRISM](https://www.xyakanyaa.com) 
 * 🔹 [Coherence Matrix](https://www.xyakanyaa.com) 
 

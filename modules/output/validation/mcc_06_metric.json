@@ -1,8 +1,0 @@
-{
-    "module": "Birch & Swinnerton-Dyer",
-    "metrics": {
-        "rank_resonance_correlation": 0.8792,
-        "validation_basis": "rank_resonance_verified_through_frequency_matching"
-    },
-    "status": "INTELLIGIBLE"
-}

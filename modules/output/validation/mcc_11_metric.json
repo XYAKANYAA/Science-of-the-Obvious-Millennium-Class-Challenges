@@ -1,8 +1,0 @@
-{
-    "module": "Langlands Problem",
-    "metrics": {
-        "coherence_index": 1.0,
-        "validation_basis": "recognition_via_spectral_fingerprinting"
-    },
-    "status": "INTELLIGIBLE"
-}

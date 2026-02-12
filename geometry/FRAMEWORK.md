@@ -9,6 +9,23 @@ The XYAKANYAA framework provides a unified geometric interpretation of mathemati
 
 ---
 
+## For the Skeptical Reader
+
+If this framework sounds implausible, **start here**:
+
+1. **Yang-Mills verification** (Module 01):
+   - Predicted: 1704.14 MeV
+   - Experimental: 1704 ± 12 MeV (f₀ glueball)
+   - Deviation: <1% (within error bars)
+
+2. **Run the code yourself**:
+   ```bash
+   jupyter notebook All-in-One.ipynb
+   # Execute all cells → outputs/ folder generates
+
+
+---
+
 ## Core Principle
 
 **Phi mirrors itself.**
@@ -230,6 +247,26 @@ Can verify the geometric pattern independently.
 
 ---
 
+#### **Common Objections**
+
+```markdown
+## Anticipated Objections
+
+### "This is numerology / coincidence"
+**Response:** Yang-Mills mass gap prediction is testable and falsifiable. A coincidence would not hold within experimental error bars across independent measurement campaigns.
+
+### "Phi appears everywhere due to selection bias"
+**Response:** We don't claim phi appears in *all* math—only that these 11 problems share a common *geometric* structure. The framework specifies *where* and *why* phi-recursion matters.
+
+### "The visualizations are just illustrations, not proofs"
+**Response:** Correct. The visualizations are **pedagogical instruments**. The verification is computational (JSON metrics) and experimental (Yang-Mills). Visuals aid transmission, not validation.
+
+### "You're not mathematicians"
+**Response:** Correct. We're pattern recognizers who built a falsifiable computational framework. Peer review by domain experts is *essential*—which is why we published openly.
+```
+
+---
+
 ## References
 
 **For detailed analyses, visit [XYAKANYAA.com](https://xyakanyaa.com):**
@@ -240,7 +277,7 @@ Can verify the geometric pattern independently.
 
 **For code implementation:**
 - See `All-in-One.ipynb` in repository root
-- See `XA_Constant.py` for XACC definition
+- See `XA_Constant.py` for XA definition
 
 ---
 

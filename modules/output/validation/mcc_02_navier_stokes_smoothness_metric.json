@@ -1,0 +1,17 @@
+{
+    "module": "Navier-Stokes Smoothness",
+    "mcc_id": 2,
+    "generated_timestamp": "2026-02-12T17:56:05.896749Z",
+    "framework_version": "1.0.0",
+    "metrics": {
+        "stability_index": 1.0609933035443824e-17,
+        "is_bounded": true,
+        "validation_basis": "boundedness_under_phi_scaled_damping"
+    },
+    "status": "INTELLIGIBLE",
+    "falsifiability_criteria": {
+        "stability_threshold": "1e-10",
+        "calculated_index": "1.06e-17",
+        "within_bounds": true
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "module": "ABC Conjecture",
+    "mcc_id": 10,
+    "generated_timestamp": "2026-02-12T17:56:15.768801Z",
+    "framework_version": "1.0.0",
+    "metrics": {
+        "radical_value": 6,
+        "abc_stability_metric": 7.15737075113796e-50,
+        "validation_basis": "structural_resolution_via_coherence_ratios"
+    },
+    "status": "INTELLIGIBLE",
+    "falsifiability_criteria": {
+        "quality_criteria": "Rad(abc) < c",
+        "calculated_radical": 6,
+        "phi_resonance": true
+    }
+}

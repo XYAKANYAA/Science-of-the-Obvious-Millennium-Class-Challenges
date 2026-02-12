@@ -1,9 +1,0 @@
-{
-    "module": "Navier-Stokes Smoothness",
-    "metrics": {
-        "stability_index": 1.0609933035443824e-17,
-        "is_bounded": true,
-        "validation_basis": "boundedness_under_phi_scaled_damping"
-    },
-    "status": "INTELLIGIBLE"
-}

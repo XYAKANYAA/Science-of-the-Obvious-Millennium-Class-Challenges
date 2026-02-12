@@ -1,0 +1,17 @@
+{
+    "module": "P vs NP",
+    "mcc_id": 4,
+    "generated_timestamp": "2026-02-12T17:56:08.606754Z",
+    "framework_version": "1.0.0",
+    "metrics": {
+        "city_count": 50,
+        "field_coherence_peak": 50.0,
+        "validation_basis": "resonance_as_simultaneous_discovery_and_verification"
+    },
+    "status": "INTELLIGIBLE",
+    "falsifiability_criteria": {
+        "p_equals_np": true,
+        "verification_complexity": "O(1) via Resonance",
+        "classical_space": "3.04e+62"
+    }
+}

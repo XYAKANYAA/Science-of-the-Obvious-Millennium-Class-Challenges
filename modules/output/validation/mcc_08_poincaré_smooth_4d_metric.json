@@ -1,0 +1,17 @@
+{
+    "module": "Poincar\u00e9 Smooth 4D",
+    "mcc_id": 8,
+    "generated_timestamp": "2026-02-12T17:56:13.825187Z",
+    "framework_version": "1.0.0",
+    "metrics": {
+        "rosette_multiplier": 3.2361,
+        "4d_smoothness_energy": "3.95e+06",
+        "validation_basis": "exotic_friction_neutralized_by_petal_symmetry"
+    },
+    "status": "INTELLIGIBLE",
+    "falsifiability_criteria": {
+        "diffeomorphic_verification": true,
+        "energy_functional_stability": "3.95e+06",
+        "smooth_mapping": true
+    }
+}
