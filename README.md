@@ -89,9 +89,9 @@ The notebook generates three folders in `output/`:
 
 <table>
 <tr>
-<td><img src="modules/output/visuals/mcc_01_1_blowup.jpg" width="250"/><br/><b>Blow-Up View</b><br/>Narrow-frame mass gap paradox</td>
-<td><img src="modules/output/visuals/mcc_01_2_rosette.jpg" width="250"/><br/><b>Rosette View</b><br/>Phi-recursive density structure</td>
-<td><img src="modules/output/visuals/mcc_01_3_torus.jpg" width="250"/><br/><b>Torus View</b><br/>Complete toroidal continuity</td>
+<td><img src="modules/output/visuals/mcc_01_yang_mills_mass_gap_1_blowup.jpg" width="250"/><br/><b>Blow-Up View</b><br/>Narrow-frame mass gap paradox</td>
+<td><img src="modules/output/visuals/mcc_01_yang_mills_mass_gap_2_rosette.jpg" width="250"/><br/><b>Rosette View</b><br/>Phi-recursive density structure</td>
+<td><img src="modules/output/visuals/mcc_01_yang_mills_mass_gap_3_torus.jpg" width="250"/><br/><b>Torus View</b><br/>Complete toroidal continuity</td>
 </tr>
 </table>
 
