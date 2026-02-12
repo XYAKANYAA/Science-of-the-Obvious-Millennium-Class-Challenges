@@ -1,7 +1,7 @@
 {
     "module": "Yang-Mills Mass Gap",
     "mcc_id": 1,
-    "generated_timestamp": "2026-02-12T17:56:04.603655Z",
+    "generated_timestamp": "2026-02-12T18:23:18.977110Z",
     "framework_version": "1.0.0",
     "metrics": {
         "experimental_anchor_mev": 1704.14,
