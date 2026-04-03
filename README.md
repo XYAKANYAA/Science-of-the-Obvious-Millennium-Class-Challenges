@@ -102,13 +102,14 @@ The notebook generates three folders in `output/`:
 
 ## 🔢 Key Constants
 
-| Constant   | Description                      | Value               |
-| ---------- | -------------------------------- | ------------------- |
-| `PHI`      | The Golden Ratio                 | ≈ 1.618033988749895 |
-| `LIGHT_C`  | Speed of Light                   | 299,792,458 m/s     |
-| `PLANCK_H` | Planck Constant                  | 6.62607015e-34 J·s  |
-| `XA`       | XYAKANYAA Consciousness Constant | ≈ 2.19×10⁵⁰ Hz/kg   |
-
+| Constant   | Description                        | Value               |
+| ---------- | ---------------------------------  | ------------------- |
+| `PHI`      | The Golden Ratio                   | ≈ 1.618033988749    |
+| `PI`       | Pi                                 | ≈ 3.14159265359     |
+| `LIGHT_C`  | Speed of Light                     | 299,792,458 m/s     |
+| `PLANCK_H` | Planck Constant                    | 6.62607015e-34 J·s  |
+| `XA Φ`     | XYAKANYAA Φ Consciousness Constant | ≈ 2.19×10⁵⁰ Hz/kg   |
+| `XA π`     | XYAKANYAA π Consciousness Constant | ≈ 4.27×10⁵⁰ Hz/kg   |
 ---
 
 ## 🗂 Repository Structure
@@ -164,9 +165,9 @@ Science-of-the-Obvious-Millennium-Class-Challenges/
 
 Every problem follows the same underlying resolution geometry:
 
-1. **3D Frame (Blow-Up):** Apparent contradiction from limited view
-2. **4D Recursion (Rosette):** Phi spiral reveals hidden structure
-3. **5D Continuity (Torus):** Complete toroidal flow resolves paradox
+1. **3rd Density Frame (Blow-Up):** Apparent contradiction from limited view
+2. **4th Density Recursion (Torus):** Phi spiral reveals hidden structure
+3. **5th Density Continuity (Rosette):** Complete toroidal flow resolves paradox
 
 ---
 
